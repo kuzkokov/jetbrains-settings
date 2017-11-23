@@ -1,0 +1,52 @@
+<keymap version="1" name="IntelliJ IDEA Classic (OS X) copy 1" parent="Mac OS X">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta y" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorSwapSelectionBoundaries">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="GotoFile" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="PublishGroup.UploadTo">
+    <keyboard-shortcut first-keystroke="shift meta alt x" />
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="meta alt j" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
+</keymap>
